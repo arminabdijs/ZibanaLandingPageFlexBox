@@ -51,7 +51,7 @@ ZibanLandingPageFlexBox/
 ## نصب
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/your-username/ZibanLandingPageFlexBox.git
+   https://github.com/arminabdijs/ZibanaLandingPageFlexBox.git
    ```
 2. فایل `index.html` را در مرورگر وب باز کنید تا صفحه فرود را ببینید.
 
@@ -63,7 +63,7 @@ ZibanLandingPageFlexBox/
 مشارکت‌ها خوش‌آمد است! لطفاً مخزن را فورک کنید و با تغییرات خود یک درخواست ارسال کنید. مطمئن شوید که از سبک کد موجود پیروی کرده و تست‌های مناسب را شامل کنید.
 
 ## مجوز
-این پروژه تحت مجوز MIT منتشر شده است - جزئیات را در فایل [LICENSE](LICENSE) ببینید.
+این پروژه تحت مجوز MIT منتشر شده است - جزئیات را در فایل [LICENSE](MIT) ببینید.
 
 ## تماس
-برای هر سؤال یا پیشنهاد، لطفاً یک موضوع (issue) باز کنید یا با نگهدارنده در [your-email@example.com] تماس بگیرید.
+برای هر سؤال یا پیشنهاد، لطفاً یک موضوع (issue) باز کنید یا با نگهدارنده در [arminabdijs@gmail.com] تماس بگیرید.
